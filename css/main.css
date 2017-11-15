@@ -1,0 +1,138 @@
+* {  
+	box-sizing: border-box;
+}
+ 
+body, html, #weather, main {
+	height: 100%;
+	 
+}
+
+body{
+	background-image: url('../img/westerlyback.png');
+	background-size: 700px 800px;
+    background-repeat: no-repeat;
+
+}
+img{
+position: fixed;
+top: 45%;
+left: 50%;
+width: 80%;
+transform: translate(-50%,-50%);
+}
+
+/*img{
+	position: fixed
+	top: 50%
+	left: 50%
+	width: 85%
+	transform: translate(-50%,-50%)
+}*/
+
+
+.top {
+	position: relative;
+	height: 75%;
+	padding: 1.5rem 5%;
+	text-align: center;
+	
+}
+
+.wdata-01 {
+	font-size: 2.5rem;
+	text-transform: uppercase;
+	color:white;
+}
+
+.wdata-02 {
+	position: absolute;
+	top: 80%;
+	left: 51.5%;
+	transform: translate(-50%,-170%);
+	margin: 0;
+	font-size: 1rem;
+	color:white;
+}
+
+.wdata-06 {
+	position: absolute;
+	top: 38.5%;
+	left: 53%;
+	transform: translate(-50%,80%);
+	margin: 0;
+	font-size: 5rem;
+	color:white;
+}
+
+
+.wdata-03 {
+	position: absolute;
+	top: 40%;
+	left: 55%;
+	transform: translate(-65%,15%);
+	margin: 0;
+	font-size: 3rem;
+	color:white;
+}
+/*.left,
+.right {
+	float: left;
+	width: 50%;
+	color:white;
+	transform: translate(5%,170%);	
+	font-size: 1.5rem;
+}*/
+
+.right {
+	float: right;
+	width: 50%;
+	color:white;
+	transform: translate(11%,170%);	
+	font-size: 1.5rem;
+}
+
+.left {
+	float: left;
+	width: 50%;
+	color:white;
+	transform: translate(-1%,170%);	
+	font-size: 1.5rem;
+}
+
+
+
+
+.bottom {
+	overflow: hidden;
+	height: 25%;
+	padding: 1.5rem 5%;
+	transform: translate(-0%,0%);	
+	text-align: center;
+}
+
+.one,
+.two,
+.three,
+.four,
+.five,
+.six {
+	float: left;
+	width: 16%;
+	color:white;
+	transform: translate(-0%,0%);	
+	font-size: 1rem;
+}
+
+
+
+
+	
+
+
+
+
+
+
+
+
+

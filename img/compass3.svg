@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 800" style="enable-background:new 0 0 400 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#010101;}
+	.st2{font-family:'Paralucent-DemiBold';}
+	.st3{font-size:25.9682px;}
+	.st4{font-family:'Paralucent-Medium';}
+	.st5{font-size:15.5809px;}
+</style>
+<g>
+	<path class="st0" d="M200,523.4c-100.4,0-182.1-81.3-182.1-181.2S99.6,160.9,200,160.9s182.1,81.3,182.1,181.2
+		S300.4,523.4,200,523.4z M200,188.9c-85,0-154.1,68.7-154.1,153.2c0,84.5,69.1,153.2,154.1,153.2s154.1-68.7,154.1-153.2
+		C354.1,257.7,285,188.9,200,188.9z"/>
+	<g>
+		<text transform="matrix(1 0 0 1 189.7281 184.0679)" class="st1 st2 st3">N</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 195.401 516.1797)" class="st1 st2 st3">S</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 19.2301 351.6929)" class="st1 st2 st3">W</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 360.4244 348.8413)" class="st1 st2 st3">E</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 320.231 241.4898)" class="st1 st4 st5">NE</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 311.4293 462.0967)" class="st1 st4 st5">SE</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 63.2506 462.0967)" class="st1 st4 st5">SW</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 55.6207 243.187)" class="st1 st4 st5">NW</text>
+	</g>
+</g>
+</svg>
